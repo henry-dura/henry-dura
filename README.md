@@ -50,3 +50,26 @@ const Henry = {
   hobbies: [ "Travelling", "Discussing Ideas"]
 }
 ```
+
+
+
+## <a href="https://github.com/RaphDasilva"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+
+<br/>
+<summary><b>⚡ Raphael's Stats</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/RaphDasilva">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=raphdasilva&show_icons=true" alt="raphdasilva">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=raphdasilva" alt="raphdasilva">
+	</a>
+	<br/>
+</p>
+
+## <a href="https://github.com/henry-dura"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+
+
+
+| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henry-dura&theme=2077) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=henry-dura&show_icons=true&locale=en&layout=compact&theme=radical) |
+|---|---|
+| ![stats](https://github-readme-stats.vercel.app/api?henry-dura&show_icons=true&theme=radical)   |   ![streak](https://github-readme-streak-stats.herokuapp.com/?user=henry-dura&theme=radical) |
