@@ -7,11 +7,11 @@ Hi, I'm Henry Ugwu!
 	</a>
 </h1>
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7855B&width=435&lines=Full-Stack+Software+Developer+;Open+to+new+opportunities." alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7855B&width=435&lines=Front-End+Software+Developer+;Open+to+new+opportunities." alt="Typing SVG" /></a>
   </p>
 
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="150"/>
 </div>
 
 
@@ -30,6 +30,22 @@ Hi, I'm Henry Ugwu!
 
 <hr>
 
+--
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
 
 # A bit more about me
 
@@ -39,8 +55,7 @@ const Henry = {
   studentAt: "Microverse",
   currentlyLearning: Javascript,
   vision: "Working for the top ten Tech companies in the world within first 5years of my career",
-  lookingFor: "Front-end development opportunities" || "Full-stack web developement",
-  techStack: [JavaScript, HTML/CSS,Bootstrap],
+  lookingFor: "Front-end development opportunities",
   tools: [Git, Github, Figma, Webpack,Jest],
   askMeAbout: ["Front-End web dev", "Control systems Engineering"],
   telephoneNumber: "+2347069547545",
