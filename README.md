@@ -21,11 +21,13 @@ Hi, I'm Henry Ugwu!
   <a href="https://twitter.com/henryikemefuna">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=henry-dura&label=Profile%20views&color=0e75b6&style=flat" alt="henry-dura" /> </p>
 </div>
+
 <hr>
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700"/>
-</div>
+</div> -->
 
 <!-- <div align="center">
    <img src="https://komarev.com/ghpvc/?username=Sammy3000&style=flat-square&color=blue" alt=""/>
@@ -35,6 +37,7 @@ Hi, I'm Henry Ugwu!
 </h1>
  </div> -->
 
+# A bit more about me
 
 ```javascript
 const Henry = {
