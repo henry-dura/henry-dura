@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```javascript
+const Henry = {
+  fullName: "Henry Ikemefuna Ugwu",
+  studentAt: "Microverse",
+  currentlyLearning: Javascript,
+  vision: "Working for the top ten Tech companies in the world within first 5years of my career",
+  lookingFor: "Front-end development opportunities" || "Full-stack web developement",
+  techStack: [JavaScript, HTML/CSS,Bootstrap],
+  tools: [Git, Github, Figma, Webpack,Jest],
+  askMeAbout: ["Front-End web dev", "Control systems Engineering"],
+  telephoneNumber: "+2347069547545",
+  hobbies: [ "Travelling", "Discussing Ideas"]
+}
+```
