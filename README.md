@@ -3,7 +3,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" width="200"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/henry-ikemefuna-ugwu-3a2613100/">
