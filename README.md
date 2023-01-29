@@ -2,7 +2,7 @@
 
 <h1 align="center">
 Hi, I'm Henry Ugwu!
-	<a href="https://github.com/RaphDasilva" target="_self">
+	<a href="https://github.com/henry-dura" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
@@ -11,7 +11,7 @@ Hi, I'm Henry Ugwu!
   </p>
 
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200"/>
 </div>
 
 
