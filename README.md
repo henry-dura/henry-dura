@@ -59,10 +59,6 @@ const Henry = {
 
 
 
-| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henry-dura&theme=2077) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=henry-dura&show_icons=true&locale=en&layout=compact&theme=radical) |
-|---|---|
-| ![stats](https://github-readme-stats.vercel.app/api?henry-dura&show_icons=true&theme=radical)   |   ![streak](https://github-readme-streak-stats.herokuapp.com/?user=henry-dura&theme=radical) |
-
 
 | ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henry-dura&theme=2077) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=henry-dura&show_icons=true&locale=en&layout=compact&theme=radical) |
 |---|---|
