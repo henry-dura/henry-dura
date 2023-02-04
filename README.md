@@ -56,7 +56,6 @@ const Henry = {
   lookingFor: "Front-end development opportunities",
   tools: [Git, Github, Figma, Webpack,Jest],
   askMeAbout: ["Front-End web dev", "Control systems Engineering"],
-  telephoneNumber: "+2347069547545",
   hobbies: [ "Travelling", "Discussing Ideas"]
 }
 ```
